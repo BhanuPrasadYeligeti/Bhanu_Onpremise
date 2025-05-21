@@ -4,5 +4,3 @@ class Z_TESTING_CLASS definition
   create public .
 
 public section.
-
-  methods Z_METHODS_3_4 .
