@@ -7,3 +7,4 @@ public section.
 
   methods Z_METHODS_12345 .
   methods Z_METHOD_12345_2 .
+  methods Z_METHOD_12345_3 .
