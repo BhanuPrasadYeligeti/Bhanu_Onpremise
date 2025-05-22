@@ -83,6 +83,12 @@
   [
    {
     "CLSNAME":"Z_CLASS_12345",
+    "CMPNAME":"Z_METHOD12345_5",
+    "CMPTYPE":1,
+    "MTDTYPE":0
+   },
+   {
+    "CLSNAME":"Z_CLASS_12345",
     "CMPNAME":"Z_METHODS_12345",
     "CMPTYPE":1,
     "MTDTYPE":0
@@ -111,6 +117,63 @@
   "table":"SEOCOMPODF",
   "data":
   [
+   {
+    "CLSNAME":"Z_CLASS_12345",
+    "CMPNAME":"Z_METHOD12345_5",
+    "VERSION":1,
+    "ALIAS":"",
+    "REDEFIN":"",
+    "EXPOSURE":0,
+    "STATE":1,
+    "EDITORDER":0,
+    "LOCKED":"",
+    "DISPID":0,
+    "R3RELEASE":"757",
+    "AUTHOR":"",
+    "CREATEDON":"0000-00-00",
+    "CHANGEDBY":"",
+    "CHANGEDON":"0000-00-00",
+    "MTDDECLTYP":0,
+    "MTDABSTRCT":"",
+    "MTDFINAL":"",
+    "DSRNOTEOM":"",
+    "EDTX":"",
+    "MTDNEWEXC":"",
+    "MTDREPLACE":"",
+    "MTDOPTNL":"",
+    "MTDAMDPRDONLY":"",
+    "MTDAMDPCDSCLNT":"",
+    "ATTDECLTYP":0,
+    "ATTDYNAMIC":"",
+    "ATTGETMTD":"",
+    "ATTSETMTD":"",
+    "ATTRDONLY":"",
+    "ATTVALUE":"",
+    "ATTPERSIST":"",
+    "ATTBUSOBJ":"",
+    "ATTKEYFLD":"",
+    "ATTEXPVIRT":0,
+    "EVTDECLTYP":0,
+    "TYPDUMMY":"",
+    "TYPTYPE":0,
+    "TYPE":"",
+    "TABLEOF":"",
+    "SRCROW1":0,
+    "SRCCOLUMN1":0,
+    "SRCROW2":0,
+    "SRCCOLUMN2":0,
+    "REFCLSNAME":"",
+    "REFINTNAME":"",
+    "REFCMPNAME":"",
+    "BCMTDINST":"",
+    "BCMTDCAT":0,
+    "BCMTDDIA":"",
+    "BCMTDCOM":"",
+    "BCMTDSYN":0,
+    "BCEVTCAT":0,
+    "TYPESRC_LENG":0,
+    "TYPESRC":""
+   },
    {
     "CLSNAME":"Z_CLASS_12345",
     "CMPNAME":"Z_METHODS_12345",
@@ -347,6 +410,12 @@
   [
    {
     "CLSNAME":"Z_CLASS_12345",
+    "CMPNAME":"Z_METHOD12345_5",
+    "LANGU":"E",
+    "DESCRIPT":""
+   },
+   {
+    "CLSNAME":"Z_CLASS_12345",
     "CMPNAME":"Z_METHODS_12345",
     "LANGU":"E",
     "DESCRIPT":""
@@ -433,6 +502,12 @@
     "CLASSNAME":"Z_CLASS_12345",
     "METHODINDX":4,
     "METHODNAME":"Z_METHOD_12345_4",
+    "FLAGS":0
+   },
+   {
+    "CLASSNAME":"Z_CLASS_12345",
+    "METHODINDX":5,
+    "METHODNAME":"Z_METHOD12345_5",
     "FLAGS":0
    }
   ]
@@ -547,6 +622,19 @@
    },
    {
     "NAME":"Z_CLASS_12345=================CM004",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "UNAM":"ROPL072",
+    "RMAND":"100",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"Z_CLASS_12345=================CM005",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",

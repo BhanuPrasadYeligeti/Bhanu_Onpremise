@@ -3,4 +3,5 @@
     write 'first edited'.
     write 'second edit'.
     write 'thirds edit'.
+    write 'forth edit'.
   endmethod.
