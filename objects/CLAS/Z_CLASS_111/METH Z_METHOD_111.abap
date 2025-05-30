@@ -2,4 +2,5 @@
     write 'first commit'.
     write 'second'.
     write 'thirds'.
+    write 'fourth'.
   endmethod.
