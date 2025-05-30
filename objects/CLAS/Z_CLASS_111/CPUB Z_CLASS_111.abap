@@ -4,5 +4,3 @@ class Z_CLASS_111 definition
   create public .
 
 public section.
-
-  methods Z_METHOD_111 .
