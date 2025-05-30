@@ -2,4 +2,5 @@
     write 'first'.
     write 'second'.
     write 'thirds'.
+    write 'fourth'.
   endmethod.
